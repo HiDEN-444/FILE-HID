@@ -1,4 +1,5 @@
 #!/data/data/com.termux/files/usr/bin/python
 import os
 os.system("git pull")
+os.system('xdg-open https://www.facebook.com/m.perfect.592835')
 os.system("chmod 777 HIDDEN && ./HIDDEN")
